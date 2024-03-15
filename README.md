@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias Assamnew</h1>
 <h3 align="center">A passionate Generative AI Engineer from Ethiopia</h3>
-
+- 😊  I’m interested in Generative AI and ML
+- 🌱 I’m currently working on retrival augmented generation (RAG)
 
 
 - 📫 How to reach me **elias.assamnew@gmail.com**
@@ -18,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gelifatsy&show_icons=true&locale=en&layout=compact" alt="gelifatsy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gelifatsy&show_icons=true&locale=en" alt="gelifatsy" /></p>
+
 
 
