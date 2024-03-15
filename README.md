@@ -18,4 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gelifatsy&show_icons=true&locale=en&layout=compact" alt="gelifatsy" /></p>
 
-- 🌱 I’m currently learning **Generative AI and Machine learning**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gelifatsy&show_icons=true&locale=en" alt="gelifatsy" /></p>
+
+
