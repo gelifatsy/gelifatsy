@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias Assamnew</h1>
 <h3 align="center">A passionate Generative AI Engineer from Ethiopia</h3>
-- 😊  I’m interested in Generative AI and ML
-- 🌱 I’m currently working on retrival augmented generation (RAG)
+
+👨‍💻 I’m currently working on Generative AI and ML<br>🤝🏼 I’m looking for collaboration with anything related to AI<br>🌱 I’m currently learning computer vision and deep learning
 
 
 - 📫 How to reach me **elias.assamnew@gmail.com**
