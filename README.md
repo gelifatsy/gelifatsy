@@ -4,7 +4,7 @@
 👨‍💻 I’m currently working on Generative AI and ML<br>🤝🏼 I’m looking for collaboration with anything related to AI<br>🌱 I’m currently learning computer vision and deep learning
 
 
-- 📫 How to reach me **elias.assamnew@gmail.com**
+📫 How to reach me **elias.assamnew@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
