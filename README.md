@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Generative AI Engineer from Ethiopia</h3>
 
 👨‍💻 I’m currently working on Generative AI and ML<br>🤝🏼 I’m looking for collaboration with anything related to AI<br>🌱 I’m currently learning computer vision and deep learning
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gelifatsy&label=Profile%20views&color=0e75b6&style=flat" alt="eliasassamnew" /> </p>
 
 
 📫 How to reach me **elias.assamnew@gmail.com**
