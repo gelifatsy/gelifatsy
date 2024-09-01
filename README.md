@@ -26,11 +26,11 @@
        </ul>
        <br>
     </td>
-    <td width="45%">
-     <p align="center">
-      <img src="./AI_animation.png" alt="AI Illustration" width="300"/>
-     </p>
-    </td>
+  <td width="45%">
+      <p align="center">
+          <img src="./AI_animation.png" alt="AI Illustration" style="width: 100%; max-height: 300px; height: auto;"/>
+      </p>
+  </td>
   </tr>
   <tr>
     <td width="55%">
