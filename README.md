@@ -1,4 +1,4 @@
-![Banner Image](https://your-banner-image-url.png)
+![Banner Image](./Banner.png)
 
 # Hi there 👋, I'm Elias Assamnew
 
@@ -28,7 +28,7 @@
     </td>
     <td width="45%">
      <p align="center">
-      <img src="https://your-ai-related-image-url.png" alt="AI Illustration" width="300"/>
+      <img src="./AI avatar.png" alt="AI Illustration" width="300"/>
      </p>
     </td>
   </tr>
