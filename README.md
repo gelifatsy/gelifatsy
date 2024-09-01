@@ -28,7 +28,7 @@
     </td>
     <td width="45%">
      <p align="center">
-      <img src="./AI_annimation.jpeg" alt="AI Illustration" width="300"/>
+      <img src="./AI_animation.png" alt="AI Illustration" width="300"/>
      </p>
     </td>
   </tr>
