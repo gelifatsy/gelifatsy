@@ -1,4 +1,4 @@
-![Banner Image](./git_linkedin_banner.jpg.jpg)
+![Banner Image](./git_linkedin_banner.jpg)
 
 # Hi there 👋, I'm Elias Assamnew
 
