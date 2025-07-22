@@ -20,8 +20,8 @@
       </blockquote>
        <ul>
         <li>👨‍💻 &nbsp; Working on Generative AI and ML</li>
-        <li>🤝🏼 &nbsp; Open to collaborations in AI</li>
-        <li>🌱 &nbsp; Learning computer vision and deep learning</li>
+        <li>🤝🏼 &nbsp; Open to collaborations in AI Automations</li>
+        <li>🌱 &nbsp; Learning AI Agents orchestration</li>
         <li>📫 &nbsp; Reach me at: elias.assamnew@gmail.com</li>
        </ul>
        <br>
